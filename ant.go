@@ -1,7 +1,7 @@
 package config
 
 var DefaultQueenAddresses = []string{
-	"/ip4/122.9.61.5/tcp/4001/p2p/12D3KooWJHoX2Xf1tmgWaK3insPaKYGntYxTDmWj8489Dxx72Ymx",
+	"/ip4/13.57.3.254/tcp/4001/p2p/12D3KooWSHbYhw3MeVHGQU2nYUprREDkgiYqNbzpcvQdjiPRuLew",
 }
 
 type Ant struct {
